@@ -1,2 +1,2 @@
 # Point_Cloud_Segmentation_Paper
-点云论文阅读
+点云语义分割相关的论文阅读笔记
